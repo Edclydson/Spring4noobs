@@ -42,11 +42,10 @@ Tutorial de Spring para iniciantes.
     - [Core Container](/content/EcossistemaSpring/2-Spring/CoreContainer/CoreContainer.md)
       - [Inversion of Control](/content/EcossistemaSpring/2-Spring/CoreContainer/IoC.md)
       - [Dependency Injection](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)
-    
+  
     - [Data Access/Integration](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/DataAccessIntegration.md)
-      - [Spring Data JPA](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/JPA/SpringDataJPA.md)
     - [Web]()
-      - [Spring MVC]()
+      
     - [Aspect Oriented Programming]()
 
     - [Instrumentation]()
@@ -54,14 +53,18 @@ Tutorial de Spring para iniciantes.
     - [Messaging]()
 
     - [Test]() 
-      - [Unit Test]()
+      
 
 3. [Spring Boot]()
 4. [Spring Web]()
+    - [Spring MVC]()
 5. [Spring Security]()
 6. [Spring Data]()
+    - [Spring Data JPA](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/JPA/SpringDataJPA.md)
 7. [Spring Batch]()
 8. [Spring Cloud]()
+9. [Spring Test]()
+    - [Unit Test]()
 9. [Outros]()
 
 >### Na Prática
