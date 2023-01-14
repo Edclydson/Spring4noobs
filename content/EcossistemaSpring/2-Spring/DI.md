@@ -88,4 +88,4 @@ public class Secundaria{
 
 Simples, né?
 
-Ir para: [Spring Boot »]()
+Ir para: [Bean »](/content/EcossistemaSpring/2-Spring/Bean.md)
