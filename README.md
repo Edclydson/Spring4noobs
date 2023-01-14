@@ -39,8 +39,8 @@ Tutorial de Spring para iniciantes.
 >### Ecossistema Spring
  
 2. [Spring Framework](/content/EcossistemaSpring/2-Spring/Spring.md)
-    - [Inversion of Control](/content/EcossistemaSpring/2-Spring/CoreContainer/IoC.md)
-    - [Dependency Injection](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)    
+    - [Inversion of Control](/content/EcossistemaSpring/2-Spring/IoC.md)
+    - [Dependency Injection](/content/EcossistemaSpring/2-Spring/DI.md)    
 
 3. [Spring Boot]()
 4. [Spring MVC]()
