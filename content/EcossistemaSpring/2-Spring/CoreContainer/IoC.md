@@ -35,5 +35,10 @@ public class Secundaria{
 
     ### *Resumindo, a Inversão de Controle é quando um objeto define suas dependências sem criá-los.*
 
+*Tá e qual a vantagem disso?*
+- Desacoplamento de classes.
+- Facilidade na manutenção do código.
+- Diminui a possibilidade de ocorrer aquela chuva de bugs em sequência.
+
 
 Ir para: [Dependency Injection »](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)
