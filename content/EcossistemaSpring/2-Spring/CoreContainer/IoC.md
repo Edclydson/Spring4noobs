@@ -33,11 +33,13 @@ public class Secundaria{
 
 - Muito simples, o Spring realiza essa ``Inversão de Controle`` utilizando o próximo tópico desse curso, a ``Injeção de Dependência`` delegando a um Container do framework que realizará a IoC.
 
-    ### *Resumindo, a Inversão de Controle é quando um objeto define suas dependências sem criá-los.*
+    >### *Resumindo, a Inversão de Controle é quando um objeto define suas dependências sem criá-los.*
 
 *Tá e qual a vantagem disso?*
 - Desacoplamento de classes.
+
 - Facilidade na manutenção do código.
+
 - Diminui a possibilidade de ocorrer aquela chuva de bugs em sequência.
 
 

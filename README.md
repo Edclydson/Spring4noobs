@@ -44,7 +44,7 @@ Tutorial de Spring para iniciantes.
       - [Dependency Injection](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)
   
     - [Data Access/Integration](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/DataAccessIntegration.md)
-    - [Web]()
+    - [Web](/content/EcossistemaSpring/2-Spring/Web/Web.md)
       
     - [Aspect Oriented Programming]()
 
@@ -56,8 +56,7 @@ Tutorial de Spring para iniciantes.
       
 
 3. [Spring Boot]()
-4. [Spring Web]()
-    - [Spring MVC]()
+4. [Spring MVC]()
 5. [Spring Security]()
 6. [Spring Data]()
     - [Spring Data JPA](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/JPA/SpringDataJPA.md)
