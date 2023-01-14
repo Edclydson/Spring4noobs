@@ -41,25 +41,13 @@ Tutorial de Spring para iniciantes.
 2. [Spring Framework](/content/EcossistemaSpring/2-Spring/Spring.md)
     - [Core Container](/content/EcossistemaSpring/2-Spring/CoreContainer/CoreContainer.md)
       - [Inversion of Control](/content/EcossistemaSpring/2-Spring/CoreContainer/IoC.md)
-      - [Dependency Injection](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)
-  
-    - [Data Access/Integration](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/DataAccessIntegration.md)
-    - [Web](/content/EcossistemaSpring/2-Spring/Web/Web.md)
-      
-    - [Aspect Oriented Programming]()
-
-    - [Instrumentation]()
-
-    - [Messaging]()
-
-    - [Test]() 
-      
+      - [Dependency Injection](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)    
 
 3. [Spring Boot]()
 4. [Spring MVC]()
 5. [Spring Security]()
 6. [Spring Data]()
-    - [Spring Data JPA](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/JPA/SpringDataJPA.md)
+    - [Spring Data JPA](/content/EcossistemaSpring/6-SpringData/JPA/SpringDataJPA.md)
 7. [Spring Batch]()
 8. [Spring Cloud]()
 9. [Spring Test]()
