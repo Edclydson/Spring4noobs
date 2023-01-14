@@ -42,11 +42,11 @@ Tutorial de Spring para iniciantes.
     - [Inversion of Control](/content/EcossistemaSpring/2-Spring/IoC.md)
     - [Dependency Injection](/content/EcossistemaSpring/2-Spring/DI.md)    
 
-3. [Spring Boot]()
+3. [Spring Boot](/content/EcossistemaSpring/3-SpringBoot/SpringBoot.md)
 4. [Spring MVC]()
 5. [Spring Security]()
 6. [Spring Data]()
-    - [Spring Data JPA](/content/EcossistemaSpring/6-SpringData/JPA/SpringDataJPA.md)
+    - [Spring Data JPA](/content/EcossistemaSpring/6-SpringData/SpringDataJPA.md)
 7. [Spring Batch]()
 8. [Spring Cloud]()
 9. [Spring Test]()
