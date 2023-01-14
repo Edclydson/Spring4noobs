@@ -57,7 +57,7 @@ public class Secundaria{
 }
 ```
 #
-*Utilizando Annotations: ``@Autowired``*
+*Utilizando Setter:*
 
 ```java
 public class Primaria{
