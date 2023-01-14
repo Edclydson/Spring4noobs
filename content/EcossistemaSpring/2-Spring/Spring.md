@@ -18,27 +18,27 @@ Além de ser open source, a comunidade é ativa e constantemente fornece feedbac
 #
 
 O Spring Framework é o projeto base para todo o ecossistema Spring, e está dividido em 7 grupos:
->Data Access/Integration
-    >* Esse carinha aqui é responsável pelo gerenciamento de transações, possuindo diversas abstrações consistentes que abrangem diversas API's como o Java Transaction API (JTA), Java Persistence API (JPA), JDBC e Hibernate.
+- Data Access/Integration
+    * Esse carinha aqui é responsável pelo gerenciamento de transações, possuindo diversas abstrações consistentes que abrangem diversas API's como o Java Transaction API (JTA), Java Persistence API (JPA), JDBC e Hibernate.
 
-> Web
-    >* O módulo Web é responsável por conter os recursos (como o MVC e o REST) para a criação de uma aplicação Web.
+- Web
+    * O módulo Web é responsável por conter os recursos (como o MVC e o REST) para a criação de uma aplicação Web.
     Por exemplo, para criarmos uma aplicação web utilizando o Spring Framework, será utilizado o Spring MVC. Mas... falaremos mais dele em outro momento.
 
-> Aspect Oriented Programming (AOP)
-    >* Fica responsável pela implementação da Programação Orientada a Aspectos.
+- Aspect Oriented Programming (AOP)
+    * Fica responsável pela implementação da Programação Orientada a Aspectos.
 
-> Instrumentation
-    >* Fornece implementações de instrumentação.
+- Instrumentation
+    * Fornece implementações de instrumentação.
 
-> Messaging
-    >* Possui implementação e também o suporte para a programação baseada em mensagens.
+- Messaging
+    * Possui implementação e também o suporte para a programação baseada em mensagens.
 
-> Test
-    >* Este módulo contém suporte para testes unitários com JUnit e também testes de integração.
+- Test
+    * Este módulo contém suporte para testes unitários com JUnit e também testes de integração.
 
-> Core Container
-    >* Tem os principais recursos do ecossistema, que falaremos a seguir.
+- Core Container
+    * Tem os principais recursos do ecossistema, que falaremos a seguir.
 
 *Neste curso, passaremos por uma explicação sobre os principais projetos do framework para que ao final possamos construir uma API utilizando os recursos do Spring.
 
