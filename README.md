@@ -11,7 +11,7 @@
 <p align="center">
   <h1 align="center">Spring4noobs</h1>
 
-  <h1 align="center"><img src="images\spring-framework.png" alt="Spring Framework" width="120"></h1>
+  <h1 align="center"><img src="images\spring-logo.svg" alt="Spring Framework" width="120"></h1>
   
   <p align="center">
     <br />
@@ -44,7 +44,7 @@ Tutorial de Spring para iniciantes.
       - [Dependency Injection](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)
     
     - [Data Access/Integration](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/DataAccessIntegration.md)
-      - [Spring Data JPA]()
+      - [Spring Data JPA](/content/EcossistemaSpring/2-Spring/DataAccessIntegration/JPA/SpringDataJPA.md)
     - [Web]()
       - [Spring MVC]()
     - [Aspect Oriented Programming]()
