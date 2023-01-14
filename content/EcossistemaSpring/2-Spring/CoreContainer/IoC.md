@@ -36,4 +36,4 @@ public class Secundaria{
     ### *Resumindo, a Inversão de Controle é quando um objeto define suas dependências sem criá-los.*
 
 
-Ir para: [Dependency Injection »](/content/EcossistemaSpring/3-CoreContainer/DI.md)
+Ir para: [Dependency Injection »](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)

@@ -4,4 +4,4 @@
 
 ### Por exemplo, é aqui que está implementado a ``Inversão de Controle``, o assunto do nosso próximo tópico.
 #
-Ir para: [Inversion of Control »](/content/EcossistemaSpring/3-CoreContainer/IoC.md)
+Ir para: [Inversion of Control »](/content/EcossistemaSpring/2-Spring/CoreContainer/IoC.md)

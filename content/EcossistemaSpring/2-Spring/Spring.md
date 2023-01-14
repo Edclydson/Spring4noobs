@@ -20,4 +20,4 @@ Além de ser open source, a comunidade é ativa e constantemente fornece feedbac
 
 #
 
-Ir para: [3. Core Container »](/content/EcossistemaSpring/3-CoreContainer/CoreContainer.md)
+Ir para: [3. Core Container »](/content/EcossistemaSpring/2-Spring/CoreContainer/CoreContainer.md)
