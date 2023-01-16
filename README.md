@@ -54,7 +54,9 @@ Tutorial de Spring para iniciantes.
 10. [Outros](/content/EcossistemaSpring/10-Outros/Outros.md)
 
 >### Na Prática
-11. [Projeto Spring]()
+11. [Projeto Spring](/content/ProjetoSpring/ProjetoSpring.md)
+    - [Spring Initializr](/content/ProjetoSpring/SpringInitializr.md)
+    - [IDE/Editor de Texto]()
   
 <!-- CONTRIBUTING -->
 
