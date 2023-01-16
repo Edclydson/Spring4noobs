@@ -51,8 +51,7 @@ Tutorial de Spring para iniciantes.
 7. [Spring Batch](/content/EcossistemaSpring/7-SpringBatch/SpringBatch.md)
 8. [Spring Cloud](/content/EcossistemaSpring/8-SpringCloud/SpringCloud.md)
 9. [Spring Testing](/content/EcossistemaSpring/9-SpringTesting/SpringTesting.md)
-    - [Unit Test]()
-10. [Outros]()
+10. [Outros](/content/EcossistemaSpring/10-Outros/Outros.md)
 
 >### Na Prática
 11. [Projeto Spring]()
