@@ -45,8 +45,8 @@ Tutorial de Spring para iniciantes.
 
 3. [Spring Boot](/content/EcossistemaSpring/3-SpringBoot/SpringBoot.md)
 4. [Spring MVC](/content/EcossistemaSpring/4-SpringMVC/SpringMVC.md)
-5. [Spring Security]()
-6. [Spring Data]()
+5. [Spring Security](/content/EcossistemaSpring/5-SpringSecurity/SpringSecurity.md)
+6. [Spring Data](/content/EcossistemaSpring/6-SpringData/SpringData.md)
     - [Spring Data JPA](/content/EcossistemaSpring/6-SpringData/SpringDataJPA.md)
 7. [Spring Batch]()
 8. [Spring Cloud]()
