@@ -25,4 +25,4 @@ public class Controlador{
     - ``@RequestMapping``
         - Mapeia requisições REST.
 
-Ir para: [5. Spring Security »](/content/EcossistemaSpring/5-SpringSecurity/SpringSecurity.md)
+Ir para: [Spring Security »](/content/EcossistemaSpring/5-SpringSecurity/SpringSecurity.md)

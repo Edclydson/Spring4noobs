@@ -23,4 +23,4 @@ E por falar em Annotation, o Spring possui alguns esteriótipos que são determi
 
 No decorrer dos módulos seguintes existirão mais exemplos de Annotations.
 
-Ir para: [3. Spring Boot »](/content/EcossistemaSpring/3-SpringBoot/SpringBoot.md)
+Ir para: [Spring Boot »](/content/EcossistemaSpring/3-SpringBoot/SpringBoot.md)

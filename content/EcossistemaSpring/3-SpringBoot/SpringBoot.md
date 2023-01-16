@@ -17,4 +17,4 @@
     - ``@Bean``
         - Utilizada geralmente dentro de classes marcadas com a ``@Configuration`` para dizer ao Spring Framework quais métodos invocar e gerenciar seus objetos, ou seja, realizar a injeção de dependências desses métodos.
 
-Ir para: [4. Spring MVC »](/content/EcossistemaSpring/4-SpringMVC/SpringMVC.md)
+Ir para: [Spring MVC »](/content/EcossistemaSpring/4-SpringMVC/SpringMVC.md)

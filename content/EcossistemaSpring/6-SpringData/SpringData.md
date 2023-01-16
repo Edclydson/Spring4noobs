@@ -11,4 +11,4 @@
 
 A seguir falaremos de um dos seus principais módulos, o Spring Data JPA.
 
-Ir para: [6. Spring Data JPA »](/content/EcossistemaSpring/6-SpringData/SpringDataJPA.md)
+Ir para: [Spring Data JPA »](/content/EcossistemaSpring/6-SpringData/SpringDataJPA.md)

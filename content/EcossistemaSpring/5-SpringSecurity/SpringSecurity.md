@@ -18,4 +18,4 @@
         - Ativa a segurança de método global.
 
 
-Ir para: [6. Spring Data »](/content/EcossistemaSpring/6-SpringData/SpringData.md)
+Ir para: [Spring Data »](/content/EcossistemaSpring/6-SpringData/SpringData.md)
