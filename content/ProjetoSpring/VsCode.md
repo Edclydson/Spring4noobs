@@ -23,18 +23,23 @@ Linguagem do projeto:
 Em seguida, definiremos: 
 
 - O id do grupo
+
 ![Group Id](/images/vscode05.jpg)
 
 - O artefato
+
 ![Artifact](/images/vscode06.jpg)
 
 - O tipo de empacotamento
+
 ![Packaging](/images/vscode07.jpg)
 
 - A versão do Java
+
 ![Java Version](/images/vscode08.jpg)
 
 - E as dependêcias do projeto
+
 ![Dependencies](/images/vscode09.jpg)
 
 Logo após essa sequência, iremos definir o local onde será salvo o projeto e estaremos prontos para iniciar o projeto.
