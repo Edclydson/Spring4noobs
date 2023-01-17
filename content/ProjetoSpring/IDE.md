@@ -4,5 +4,3 @@ Temos algumas alternativas quanto a IDE's e Editores de Texto para criarmos noss
 
 - [Intellij](/content/ProjetoSpring/Intellij.md)
 - [VsCode](/content/ProjetoSpring/VsCode.md)
-
-Ir para: []()

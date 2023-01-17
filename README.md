@@ -56,7 +56,7 @@ Tutorial de Spring para iniciantes.
 >### Na Prática
 11. [Projeto Spring](/content/ProjetoSpring/ProjetoSpring.md)
     - [Spring Initializr](/content/ProjetoSpring/SpringInitializr.md)
-    - [IDE/Editor de Texto]()
+    - [IDE/Editor de Texto](/content/ProjetoSpring/IDE.md)
   
 <!-- CONTRIBUTING -->
 
