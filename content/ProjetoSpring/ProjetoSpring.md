@@ -26,4 +26,4 @@ Mas chega de papo e vamos falar brevemente sobre alguns conceitos chave que a ge
 
 Passado essa breve explicação sobre API, REST, RESTful e niveis... Vamos ao que realmente interessa.
 
-Ir para: [Spring Initializr](/content/ProjetoSpring/SpringInitializr.md)
+Ir para: [Spring Initializr »](/content/ProjetoSpring/SpringInitializr.md)

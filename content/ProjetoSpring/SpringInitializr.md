@@ -25,3 +25,5 @@ Clicando em *Add Dependecies* abre uma janela com uma lista de dependências par
 Feito isso, basta clicar em *Generate* o projeto vai ser baixado de forma compactada, então sem pânico.
 
 Extraia esse arquivo em uma pasta que será a pasta do seu projeto e após isso, importe na sua IDE de preferencia a pasta descompactada.
+
+Ir para: [Intellij »](/content/ProjetoSpring/Intellij.md)

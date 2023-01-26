@@ -6,4 +6,4 @@
 
 Vamos agora botar a mão na massa, ou melhor, no código e criar uma aplicação utilizando o Spring Framework.
 
-Ir para: [Prática »]()
+Ir para: [Projeto Spring »](/content/ProjetoSpring/ProjetoSpring.md)
