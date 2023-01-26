@@ -44,4 +44,4 @@ Em seguida, definiremos:
 
 Logo após essa sequência, iremos definir o local onde será salvo o projeto e estaremos prontos para iniciar o projeto.
 
-Ir para: []()
+Ir para: [Primeiros Passos »](/content/ProjetoSpring/PrimeirosPassos.md)
