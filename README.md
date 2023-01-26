@@ -58,11 +58,11 @@ Tutorial de Spring para iniciantes.
     - [Spring Initializr](/content/ProjetoSpring/SpringInitializr.md)
     - [Intellij](/content/ProjetoSpring/Intellij.md)
     - [VsCode](/content/ProjetoSpring/VsCode.md)
-    - [Primeiros Passos]()
-    - [Models]()
-    - [Controllers]()
-    - [Services]()
-    - [Repositories]()
+    - [Primeiros Passos](/content/ProjetoSpring/PrimeirosPassos.md)
+    - [Models](/content/ProjetoSpring/Models.md)
+    - [Repositories](/content/ProjetoSpring/Repositories.md)
+    - [Services](/content/ProjetoSpring/Services.md)
+    - [Controllers](/content/ProjetoSpring/Controllers.md)
     
 <!-- CONTRIBUTING -->
 
