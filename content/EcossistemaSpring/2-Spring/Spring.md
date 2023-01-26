@@ -45,4 +45,4 @@ O Spring Framework é o projeto base para todo o ecossistema Spring, e está div
 
 #
 
-Ir para: [Inversion of Control »](/content/EcossistemaSpring/2-Spring/CoreContainer/IoC.md)
+Ir para: [Inversion of Control »](/content/EcossistemaSpring/2-Spring/IoC.md)
