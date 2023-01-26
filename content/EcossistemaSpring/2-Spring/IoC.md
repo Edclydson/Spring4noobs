@@ -43,4 +43,4 @@ public class Secundaria{
 - Diminui a possibilidade de ocorrer aquela chuva de bugs em sequência.
 
 
-Ir para: [Dependency Injection »](/content/EcossistemaSpring/2-Spring/CoreContainer/DI.md)
+Ir para: [Dependency Injection »](/content/EcossistemaSpring/2-Spring/DI.md)
