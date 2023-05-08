@@ -10,7 +10,7 @@
 
 - Nós vimos um exemplo prático desse ciclo no cenário das classes Primaria e Secundaria, utilizando as três formas de injeção de dependência (Setter, Constructor e Annotation).
 
-E por falar em Annotation, o Spring possui alguns esteriótipos que são determinados por Annotations específicas para cada tipo de Bean. Estes são alguns exemplos: 
+E por falar em Annotation, o Spring possui alguns estereótipos que são determinados por Annotations específicas para cada tipo de Bean. Estes são alguns exemplos: 
 
 - ``@RestController``
     - Define uma classe que contém métodos para uma API RESTful.
