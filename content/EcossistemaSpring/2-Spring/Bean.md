@@ -20,6 +20,9 @@ E por falar em Annotation, o Spring possui alguns estereótipos que são determi
     - Define um repositório Bean.
 - ``@Service``
     - Define uma classe de serviço.
+- ``@Component``
+    - Define um Bean genérico gerenciado pelo Spring.
+    - Tanto **@Service** como **@Repository** são anotações especializadas de **@Component**.
 
 No decorrer dos módulos seguintes existirão mais exemplos de Annotations.
 
