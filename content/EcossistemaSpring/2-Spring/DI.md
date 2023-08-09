@@ -9,6 +9,20 @@
 
 > ### **Se liga, como isso fica na prática...**
 
+Primeiro, precisamos utilizar uma Annotation de Bean na classe Secundaria para que o Spring gerencie e saiba injetar a dependência.
+
+```java
+@Service
+class Secundaria{
+
+    public void metodoVaiCaralho(){
+        System.out.println("vai caralho");
+    }
+}
+```
+
+Agora veremos os possiveis métodos de injeção de dependência:
+#
 *Utilizando ``Constructor`` (Recomendada pela equipe do Spring)*
 
 ```java
@@ -17,20 +31,14 @@ public class Primaria{
     private Secundaria secundaria;
 
     public Primaria(Secundaria secundaria){
-        this.secundaria = secundaria
+        this.secundaria = secundaria;
     }
+
     public void metodoFodase(){
         secundaria.metodoVaiCaralho();
         System.out.println("fodase");
     }
 
-}
-
-public class Secundaria{
-
-    public void metodoVaiCaralho(){
-        System.out.println("vai caralho");
-    }
 }
 ```
 #
@@ -47,13 +55,6 @@ public class Primaria{
         System.out.println("fodase");
     }
 
-}
-
-public class Secundaria{
-
-    public void metodoVaiCaralho(){
-        System.out.println("vai caralho");
-    }
 }
 ```
 #
@@ -74,13 +75,6 @@ public class Primaria{
         System.out.println("fodase");
     }
 
-}
-
-public class Secundaria{
-
-    public void metodoVaiCaralho(){
-        System.out.println("vai caralho");
-    }
 }
 ```
 - Então, quando for necessário o próprio Spring se responsabilizará pela criação da instância da classe Secundaria para que a Primaria possa usar o método.
